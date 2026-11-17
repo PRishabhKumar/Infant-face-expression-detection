@@ -1,0 +1,22 @@
+# Datasets
+Data/
+
+# ZIP archives
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Model weights
+*.h5
+*.pt
+*.pth
+*.onnx
+
+# Virtual environments
+venv/
+.venv/
