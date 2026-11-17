@@ -1,4 +1,4 @@
-# Angel-I — Infant Expression Recognition
+# Infant Expression Recognition
 
 > An image-classification research project for understanding infant expressions with computer vision.
 
